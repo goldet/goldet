@@ -1,7 +1,7 @@
 ### Hi, I'm Golde 👋 I love to be a part of community that shares and learns together!
 
 ### I'm learning to make my project ideas come alive as a full stack developer. 
-[LinkedIn](https://www.linkedin.com/in/golde-tischler/) [Twitter](https://twitter.com/GoldeCodes)
+[LinkedIn](https://www.linkedin.com/in/golde-tischler/) [Twitter](https://twitter.com/GoldeCodes) [Portfolio](https://golde-portfolio-m5h5.vercel.app/)
 
 I love learning about science, technology, story telling, and history. I'm fascinated by understanding the mechanisms of how things work and how that translates to the way we interact with the world.  
 
