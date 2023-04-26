@@ -13,7 +13,7 @@ Coming from an education background, starting this journey in web development is
 ```javascript
 const golde = {
   pronouns: "she" | "her",
-  code: [Javascript, SQL, CSS, HTML],
+  code: [Javascript, SQL, CSS, HTML, TypeScript],
   tools: [React, Next, Vue, Tailwind ],
  
   techCommunities: {
@@ -24,7 +24,7 @@ const golde = {
 }
 ```
 
-<b>I'm just starting out on my coding journey and I love connecting and learning with different people so if you want to say hi, I'll be happy to chat!</b> :)
+<b>I love connecting and learning with different people so if you want to say hi, I'll be happy to chat!</b> :)
 
 
 
