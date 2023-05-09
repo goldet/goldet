@@ -14,7 +14,7 @@ Coming from an education background, starting this journey in web development is
 const golde = {
   pronouns: "she" | "her",
   code: [Javascript, SQL, CSS, HTML, TypeScript],
-  tools: [React, Next, Vue, Tailwind ],
+  tools: [React Native, React, Next, Vue, Tailwind ],
  
   techCommunities: {
                         student: "CodeOp",
