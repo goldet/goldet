@@ -17,8 +17,7 @@ const golde = {
   tools: [React Native, React, Next, Vue, Tailwind ],
  
   techCommunities: {
-                        student: "CodeOp",
-                        member: "CodeWomen - Barcelona"
+                        member: "CodeWomen - Barcelona", "CodeOp Alumni",
                       },
  challenge: "I am starting the #100DaysOfCode challenge focused on react, next and typescript"
 }
